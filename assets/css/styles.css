@@ -1,0 +1,21 @@
+* ,html , body {
+    font-family: IRANSans !important ;
+}
+.post-container{
+    position: relative;
+}
+.post-author{
+    position: absolute;
+    left: 18px;
+    top: 20px;
+    font-size: 12px;
+    font-weight: 200;
+}
+.post-title{
+    border-bottom: 1px dashed rgba(0,0,0,0.2);
+    padding-bottom: 13px;
+}
+.post-content{
+    line-height: 29px;
+    font-size: 16px;
+}
